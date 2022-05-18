@@ -1,0 +1,16 @@
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\Memory.xml
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\ReaLTaiizor.xml
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.Form1.resources
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.Properties.Resources.resources
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.GenerateResource.cache
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.CoreCompileInputs.cache
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.CopyComplete
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.Fody.CopyLocal.cache
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DLTrainer.csproj.AssemblyReference.cache
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\DL2Trainer_v1.0.4.exe.config
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\DL2Trainer_v1.0.4.exe
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\bin\Release\DL2Trainer_v1.0.4.pdb
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DL2Trainer_v1.0.4.exe
+C:\Users\b0m8a\source\repos\DLTrainer\DLTrainer\obj\Release\DL2Trainer_v1.0.4.pdb
